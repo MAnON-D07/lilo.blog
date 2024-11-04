@@ -4,7 +4,7 @@ date = "2023-01-01"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
-image = "/img/default-image.jpg"
+image = "sunoo-album-card-template.jpeg"
 description = "In diesem Artikel werden meine Gedanken veranschaulicht."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
