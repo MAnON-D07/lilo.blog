@@ -11,7 +11,7 @@ Markenkleider, faire Preise und Hilfe für Prostituierte und Heroinsüchtige Fra
 
 {{<lead>}}
 
-**Mia Bürki und Manon Devers**
+Mia Bürki und Manon Devers
 
 ![](screenshot-2025-02-12-140454.png)
 
