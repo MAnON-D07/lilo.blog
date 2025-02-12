@@ -1,16 +1,10 @@
 +++
-title = "Intrview"
+title = "Second-Hand mit Stil, Qualität und Herz"
 date = "2025-02-11"
 draft = false
 pinned = false
 image = "screenshot-2025-02-12-140454.png"
 +++
-<!--StartFragment-->
-
-**Second-Hand mit Stil, Qualität und Herz**
-
-<!--EndFragment-->
-
 {{<lead>}}
 
 Markenkleider, faire Preise und Hilfe für Prostituierte und Heroinsüchtige Frauen – Prisca Blunschis „Butig“ ist mehr als ein Second-Hand-Laden.
@@ -19,15 +13,13 @@ Markenkleider, faire Preise und Hilfe für Prostituierte und Heroinsüchtige Fra
 
 **Mia Bürki und Manon Devers**
 
-**+**
+![](screenshot-2025-02-12-140454.png)
 
 *Prisca Blunschi in ihrem kleinen Second-Hand-Laden in Münsingen.*
 
 <!--StartFragment-->
 
 Mitten in Münsingen führt Prisca Blunschi ihre „Butig“. Hier hängen sorgfältig ausgewählte Markenkleider auf den Stangen, von Street One bis Moncler. Ramsch gibt es nicht, dafür faire Konditionen für die Kundinnen. Seit acht Jahren leitet Prisca Blunschi die Butig mit Herzblut – und mit einem besonderen sozialen Engagement: Nicht verkaufte Kleidung spendet sie an die Organisation La Strada, die Frauen in schwierigen Lebenslagen unterstützt. Dadurch geht nicht verkaufte Kleidung nicht in den Müll, sondern an Frauen, die sie wirklich brauchen können.
-
-
 
 <!--EndFragment-->
 
@@ -84,8 +76,6 @@ Sowohl die, die die Kleider bringen, als auch die, die hier kaufen kommen, sind 
 Also eigentlich bin ich hier eine meiner besten Kundinnen. Da ich die Erste bin, die die Sachen in die Finger bekommt, kann ich sie mir anschauen und anprobieren. Von meinen Kleidern kaufe ich etwa 90 Prozent hier, das hat für mich eine recht grosse Bedeutung. Früher hätte ich mir das nicht vorstellen können, da es mich zum Teil ein bisschen geekelt hat. Jetzt hat es für mich eine grosse Bedeutung, und ich finde es einfach eine gute Sache.
 
 Mich freut es immer, wenn ich sehe, wie viele Säcke Kleidung ich an La Strada weitergebe, die die Frauen einfach nicht mehr wollen – wahre Vermögen zum Teil. Tausende von Franken würden sonst einfach weggeworfen werden. Alleine mit diesem Beruf könnte ich mich nicht ernähren. Es ist wirklich vor Allem ein Hobby, dass ein bisschen Sackgeld bringt.
-
-
 
 <!--EndFragment-->
 
