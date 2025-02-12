@@ -13,9 +13,7 @@ Markenkleider, faire Preise und Hilfe für Prostituierte und Heroinsüchtige Fra
 
 Mia Bürki und Manon Devers
 
-![](screenshot-2025-02-12-140454.png)
-
-*Prisca Blunschi in ihrem kleinen Second-Hand-Laden in Münsingen.*
+![Prisca Blunschi in ihrem kleinen Second-Hand-Laden in Münsingen.](screenshot-2025-02-12-140454.png)
 
 <!--StartFragment-->
 
